@@ -1,2 +1,3 @@
 this lab works on stm32f103c6 MCU, this folder represents the files of the STM32CUBE WorkSpace of the lab, but you can take the elf file and
 make it work on the keil IDE by changing the elf extension to axf extension, and of course after making a workspace for Keil  
+-> This MCU depends on the AFIO to reach the EXTIs
