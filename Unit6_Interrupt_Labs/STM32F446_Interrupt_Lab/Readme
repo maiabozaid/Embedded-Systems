@@ -1,2 +1,3 @@
-This file is for the interrupt lab on the stm32f446 MCU, the difference between this implementation and STM32F103 one is that, 103 uses the 
-AFIO to access the EXTIs, but STM32F446 uses the "System configurations control" (check the TRM to find it) 
+This folder represents the files of the STM32CUBE WorkSpace of the lab
+-> STM32F446 MCU depends on "System configurations control" (check the TRM to find it) to reach the EXTIs, not the AFIO 
+
