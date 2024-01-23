@@ -1,1 +1,2 @@
-
+This file is for the interrupt lab on the stm32f446 MCU, the difference between this implementation and STM32F103 one is that, 103 uses the 
+AFIO to access the EXTIs, but STM32F446 uses the "System configurations control" (check the TRM to find it) 
